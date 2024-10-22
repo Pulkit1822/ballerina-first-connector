@@ -12,32 +12,32 @@ Welcome to the Ballerina First Connector project! This README will guide you thr
 ### Learning Outcomes
 
 1. **Understanding Ballerina Basics**:
-    - **Imports**: You learned how to import necessary modules in Ballerina, such as `ballerina/http` for HTTP client functionality and `ballerina/io` for input/output operations.
-    - **Main Function**: You understood the structure of a Ballerina program, including the `main` function which serves as the entry point.
+    - **Imports**: I learned how to import necessary modules in Ballerina, such as `ballerina/http` for HTTP client functionality and `ballerina/io` for input/output operations.
+    - **Main Function**: I understood the structure of a Ballerina program, including the `main` function which serves as the entry point.
 
 2. **HTTP Client Usage**:
-    - **Creating an HTTP Client**: You learned how to create an HTTP client using `http:Client` to interact with external services.
-    - **Making HTTP Requests**: You understood how to make HTTP GET requests using the `get` method of the `http:Client` object.
-    - **Handling Responses**: You learned how to handle HTTP responses, including checking for errors and extracting the payload.
+    - **Creating an HTTP Client**: learned how to create an HTTP client using `http:Client` to interact with external services.
+    - **Making HTTP Requests**: understood how to make HTTP GET requests using the `get` method of the `http:Client` object.
+    - **Handling Responses**: learned how to handle HTTP responses, including checking for errors and extracting the payload.
 
 3. **Error Handling**:
-    - **Using `check`**: You learned how to use the `check` keyword to handle errors in Ballerina. This ensures that any errors encountered during the execution of a statement are propagated up the call stack.
+    - **Using `check`**: learned how to use the `check` keyword to handle errors in Ballerina. This ensures that any errors encountered during the execution of a statement are propagated up the call stack.
 
 4. **Working with JSON**:
-    - **Extracting JSON Payloads**: You understood how to extract JSON payloads from HTTP responses using the `getJsonPayload` method.
-    - **Printing JSON Data**: You learned how to print JSON data to the console using the `io:println` function.
+    - **Extracting JSON Payloads**: understood how to extract JSON payloads from HTTP responses using the `getJsonPayload` method.
+    - **Printing JSON Data**: learned how to print JSON data to the console using the `io:println` function.
 
 5. **Project Structure and Configuration**:
-    - **Ballerina Project Structure**: You gained knowledge about the typical structure of a Ballerina project, including the use of configuration files like `Ballerina.toml`.
-    - **Gradle Integration**: You learned how to integrate Gradle with a Ballerina project for building and managing dependencies.
+    - **Ballerina Project Structure**: gained knowledge about the typical structure of a Ballerina project, including the use of configuration files like `Ballerina.toml`.
+    - **Gradle Integration**: learned how to integrate Gradle with a Ballerina project for building and managing dependencies.
 
 6. **Sanitization Practices**:
-    - **Input and Output Sanitization**: You understood the importance of sanitizing inputs and outputs to ensure data integrity and security.
+    - **Input and Output Sanitization**: understood the importance of sanitizing inputs and outputs to ensure data integrity and security.
 
 7. **Running Ballerina Programs**:
-    - **Using the `bal` Command**: You learned how to compile and run Ballerina programs using the `bal` command.
+    - **Using the `bal` Command**: learned how to compile and run Ballerina programs using the `bal` command.
 
-By working through this project, you have gained a comprehensive understanding of how to create, configure, and run a Ballerina connector to interact with external services.
+By working through this project,I have gained a comprehensive understanding of how to create, configure, and run a Ballerina connector to interact with external services.
 
 
 ## How to Run This Project
