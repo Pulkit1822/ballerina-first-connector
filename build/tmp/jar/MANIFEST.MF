@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.example.MainClass
+Class-Path: lib/some-library.jar

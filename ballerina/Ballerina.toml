@@ -1,0 +1,8 @@
+[package]
+org = "pulkitmathur"
+name = "ballerina_first_connector"
+version = "0.1.0"
+exported = ["ballerina_first_connector"]
+
+[build-options]
+observabilityIncluded = true
